@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color fondo
+color linea
+color morado
+color texto
+drawable boton_redondo
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id boton0
+id boton1
+id boton2
+id boton3
+id boton4
+id boton5
+id boton6
+id boton7
+id boton8
+id boton9
+id botonDividir
+id botonIgual
+id botonMultiplicar
+id botonPunto
+id botonRestar
+id botonSumar
+id contenido
+id pantalla
+id raiz
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+style BotonCalculadora
+style Theme.Calculator

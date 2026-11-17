@@ -1,0 +1,8 @@
+com.example.calculator.app-pngs-0 /home/fran/AndroidStudioProjects/Calculator/app/build/generated/res/pngs/debug
+com.example.calculator.app-updated_navigation_xml-1 /home/fran/AndroidStudioProjects/Calculator/app/build/generated/updated_navigation_xml/debug
+com.example.calculator.app-packageDebugResources-2 /home/fran/AndroidStudioProjects/Calculator/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.calculator.app-packageDebugResources-3 /home/fran/AndroidStudioProjects/Calculator/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.calculator.app-debug-4 /home/fran/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.calculator.app-debug-5 /home/fran/AndroidStudioProjects/Calculator/app/src/debug/res
+com.example.calculator.app-main-6 /home/fran/AndroidStudioProjects/Calculator/app/src/main/res
+gradleHome-0 /tmp/cursor-sandbox-cache/87b26c0a2af6447e5481b2088de33598/gradle

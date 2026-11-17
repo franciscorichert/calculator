@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.calculator.CalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-04T10:10:19.732Z" hostname="2a02-9130-fd1c-2536-4297-24bf-5125-fb7c" time="0.043">
+  <properties/>
+  <testcase name="suma" classname="com.example.calculator.CalculatorTest" time="0.034"/>
+  <testcase name="resta" classname="com.example.calculator.CalculatorTest" time="0.0"/>
+  <testcase name="division" classname="com.example.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="multiplicacion" classname="com.example.calculator.CalculatorTest" time="0.0"/>
+  <testcase name="divisionEntreCero" classname="com.example.calculator.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

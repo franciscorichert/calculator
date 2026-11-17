@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="morado">#6751A3</color>
+    <color name="fondo">#FFFFFF</color>
+    <color name="linea">#888888</color>
+    <color name="texto">#1C1C1C</color>
+</resources>

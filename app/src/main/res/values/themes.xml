@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Calculator" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/morado</item>
+        <item name="android:navigationBarColor">@color/fondo</item>
+        <item name="android:windowBackground">@color/fondo</item>
+    </style>
+
+    <style name="BotonCalculadora">
+        <item name="android:layout_width">68dp</item>
+        <item name="android:layout_height">68dp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:background">@drawable/boton_redondo</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+</resources>
